@@ -1,0 +1,15 @@
+.wrap-slider-re-build {
+    width: 100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1240px;
+}
+
+.wrap-2-section-re-build {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
